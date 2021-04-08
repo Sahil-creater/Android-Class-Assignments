@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CA1 Assignment</string>
+    <string name="textView">Users </string>
+
+    <string name="users">Users :</string>
+    <string name="hobbies">Menu
+    </string>
+    <string name="button">Button</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="checkbox">Pizza</string>
+    <string name="checkbox2">Burger</string>
+    <string name="checkbox3">Coke</string>
+    <string name="age">Age</string>
+
+
+</resources>
